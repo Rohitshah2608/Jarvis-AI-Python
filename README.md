@@ -8,23 +8,23 @@ J.A.R.V.I.S. AI Functionalities:
 5. It should be able to perform tasks: The system must support task automation, such as executing commands, managing schedules, or controlling 
    connected devices.
 
-"Brain: The Decision-Making Model of J.A.R.V.I.S."
+# "Brain: The Decision-Making Model of J.A.R.V.I.S."
  The "Brain" of J.A.R.V.I.S. is the core decision-making model that handles various types of user queries. 
  It processes and categorizes inputs into three main types:
 
- # General Queries: These involve basic or conversational interactions that do not require real-time data or task execution.
+* General Queries: These involve basic or conversational interactions that do not require real-time data or task execution.
 Examples:
 "How are you?"
 "What is photosynthesis?"
 "I will talk to you tomorrow."
 
- # Real-Time Queries: These queries demand immediate information retrieval or real-time data.
+ * Real-Time Queries: These queries demand immediate information retrieval or real-time data.
 Examples:
 "Who is Elon Musk?"
 "What’s Mark’s net worth?"
 "What’s the weather outside?"
 
- # Automation Queries: These queries require the AI to perform specific tasks or execute actions.
+ * Automation Queries: These queries require the AI to perform specific tasks or execute actions.
 Examples:
 "Open Facebook and Instagram."
 "Remind me when it’s 10 PM."
